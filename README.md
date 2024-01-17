@@ -1,5 +1,5 @@
 # Flask-Project
-This project is only for learning purpose 
+This project is only for learning purposes 
 # Getting started 
 
 **1. Clone the Repo into your local machine**
